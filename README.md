@@ -120,7 +120,7 @@ yarn dev
 ### Privacy & Security
 - End-to-end encryption
 - Anonymous community participation
-- Secure data storage
+- Secure data storage..
 
 ## 🤝 Contributing
 
